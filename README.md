@@ -1,4 +1,6 @@
 # basafilyen.github.io
 Unofficial Translations Resources
 
-Website for making unofficial translation packs in various games.
+Upcomming website for making unofficial translation packs in various games.
+
+Currently working on Minecraft for conlangs.
